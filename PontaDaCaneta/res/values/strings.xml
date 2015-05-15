@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PontaDaCaneta</string>
+    <string name="ponta_da_caneta">Ponta da Caneta</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
